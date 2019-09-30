@@ -10,5 +10,5 @@ package pruebarep;
  * @author Sebas
  */
 public class Mayorga {
-    
+    //Mayorga
 }
