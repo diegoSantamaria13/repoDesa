@@ -10,8 +10,8 @@
  */
 public class Genesis {
     public static void main(String[] args) {
-        System.out.println("Hola");
-       // esto es un comentario 
+       
+      
     }
     
 }
