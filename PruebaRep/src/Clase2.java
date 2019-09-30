@@ -6,9 +6,9 @@
 
 /**
  *
- * @author Genesis
+ * @author Clase2
  */
-public class Genesis {
+public class Clase2 {
     public static void main(String[] args) {
        
       
