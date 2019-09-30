@@ -10,5 +10,5 @@ package pruebarep;
  * @author DELL
  */
 public class Palate {
-    
+    //Palate
 }
